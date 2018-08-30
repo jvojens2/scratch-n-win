@@ -1,0 +1,7 @@
+Designing Scratch n Win game
+----------------------------
+
+Game board consists of 50 squares.
+
+A random number between 1 and 10 is generated and displayed to the user. This number is the winning number.
+
